@@ -13,6 +13,7 @@ function App() {
       <HeaderCom />
       {/* <ContentCom />
       <FooterCom /> */}
+      <h1>Phuc</h1>
     </>
   )
 }
